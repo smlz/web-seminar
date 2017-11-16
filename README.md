@@ -4,7 +4,9 @@
 
 * Vue: https://vuejs.org
 * Node.js: https://nodejs.org
-* Git Online-Tutorial: https://try.github.io/levels/1/challenges/1
+* Git Online-Tutorials:
+  * https://try.github.io
+  * https://learngitbranching.js.org
 
 ### Installation Node.js
 
