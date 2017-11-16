@@ -26,7 +26,7 @@
 
 ```
 cd code
-vue-cli init webpack-simple mein-projekt
+vue init webpack-simple mein-projekt
 # Fragen beantworten
 
 cd mein-projekt
